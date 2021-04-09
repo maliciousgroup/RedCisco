@@ -1,0 +1,14 @@
+{
+  "console": {
+    "prompt": [
+      "RedCisco",
+      "The name to display within the command prompt",
+      ""
+    ],
+    "timestamp": [
+      "false",
+      "Enable this option to display the timestamp within command prompt",
+      "true,false"
+    ]
+  }
+}
